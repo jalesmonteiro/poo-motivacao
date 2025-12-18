@@ -1,0 +1,9 @@
+{
+    "name": "Python com Play Button",
+    "image": "mcr.microsoft.com/devcontainers/python:3",
+    "customizations": {
+        "vscode": {
+            "extensions": ["ms-python.python"]
+        }
+    }
+}
